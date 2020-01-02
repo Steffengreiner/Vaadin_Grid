@@ -98,6 +98,11 @@
         <option value="Steffen" />
       </list>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -117,6 +122,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager" selected="Maven.run [package,jetty:run]">
     <configuration name="compile [package]" type="MavenRunConfiguration" factoryName="Maven">
@@ -205,6 +213,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="First Vaadin Grit Based on Tutorial on&#10;https://vaadin.com/docs/v8/framework/tutorial.html" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="99" key="#Project_Structure" timestamp="1577995944485">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="99" key="#Project_Structure/0.23.1440.821@0.23.1440.821" timestamp="1577995944485" />
     <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577988116178">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -221,10 +233,10 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1577995828288" />
-    <state x="242" y="31" key="CommitChangelistDialog2" timestamp="1577995874547">
+    <state x="242" y="31" key="CommitChangelistDialog2" timestamp="1577995965059">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="242" y="31" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1577995874547" />
+    <state x="242" y="31" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1577995965059" />
     <state x="585" y="334" key="Github.ShareDialog" timestamp="1577995607573">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -249,10 +261,10 @@
     </state>
     <state width="1396" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1577995780987" />
     <state width="1396" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1577988821420" />
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1577995754829">
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1577996005954">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1577995754829" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1577996005954" />
     <state x="458" y="208" key="extract.method.dialog" timestamp="1577988735684">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
