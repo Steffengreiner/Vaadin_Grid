@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f70ae1f-5aaa-4e18-9d8f-603119f06df4" name="Default Changelist" comment="First Vaadin Grit Based on Tutorial on&#10;https://vaadin.com/docs/v8/framework/tutorial.html">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Vaadin Grid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_gentyref_gentyref_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_atmosphere_atmosphere_runtime_2_4_5_vaadin2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_flute_flute_1_3_0_gg2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_slf4j_vaadin_slf4j_jdk14_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_client_compiled_8_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_push_8_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_sass_compiler_0_9_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_server_8_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_shared_8_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_vaadin_themes_8_0_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_w3c_css_sac_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/vaadin/app/MyUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRunService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRunStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/addons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/mytheme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/VAADIN/themes/mytheme/addons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/VAADIN/themes/mytheme/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/VAADIN/themes/mytheme/mytheme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/VAADIN/themes/mytheme/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/VAADIN/themes/mytheme/styles.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/CustomerService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/CustomerService$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/CustomerStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/MyUI$MyUIServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/MyUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRunService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRunStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/atmosphere-runtime-2.4.5.vaadin2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/flute-1.3.0.gg2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/gentyref-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/jsoup-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/sac-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/vaadin-client-compiled-8.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/vaadin-push-8.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/vaadin-sass-compiler-0.9.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/vaadin-server-8.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/vaadin-shared-8.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/vaadin-slf4j-jdk14-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/lib/vaadin-themes-8.0.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/CustomerService$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/CustomerService$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/CustomerStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/MyUI$MyUIServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/MyUI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/WorkflowRun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/WorkflowRunService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/WorkflowRunStatus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Steffen" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VqkNas6QCOlvfOYqwdCanAmwSG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RunManager" selected="Maven.run [package,jetty:run]">
+    <configuration name="compile [package]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="run [package,jetty:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.run [package,jetty:run]" />
+      <item itemvalue="Maven.compile [package]" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f70ae1f-5aaa-4e18-9d8f-603119f06df4" name="Default Changelist" comment="" />
+      <created>1577987973167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577987973167</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Vaadin Grit Based on Tutorial on&#10;https://vaadin.com/docs/v8/framework/tutorial.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Vaadin Grit Based on Tutorial on&#10;https://vaadin.com/docs/v8/framework/tutorial.html" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577988116178">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="184" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.822@0.23.1440.822" timestamp="1577988116178" />
+    <state x="547" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1577989668746">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="547" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.822@0.23.1440.822" timestamp="1577989668746" />
+    <state x="367" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577990445126">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="367" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.821@0.23.1440.821" timestamp="1577990445126" />
+    <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577995828288">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1577995828288" />
+    <state x="242" y="31" key="CommitChangelistDialog2" timestamp="1577995874547">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="242" y="31" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1577995874547" />
+    <state x="585" y="334" key="Github.ShareDialog" timestamp="1577995607573">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="585" y="334" key="Github.ShareDialog/0.23.1440.821@0.23.1440.821" timestamp="1577995607573" />
+    <state width="1396" height="212" key="GridCell.Tab.0.bottom" timestamp="1577995780987">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1396" height="212" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1577995780987" />
+    <state width="1396" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1577988821421" />
+    <state width="1396" height="212" key="GridCell.Tab.0.center" timestamp="1577995780987">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1396" height="212" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1577995780987" />
+    <state width="1396" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1577988821420" />
+    <state width="1396" height="212" key="GridCell.Tab.0.left" timestamp="1577995780987">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1396" height="212" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1577995780987" />
+    <state width="1396" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1577988821420" />
+    <state width="1396" height="212" key="GridCell.Tab.0.right" timestamp="1577995780987">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1396" height="212" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1577995780987" />
+    <state width="1396" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1577988821420" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1577995754829">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1577995754829" />
+    <state x="458" y="208" key="extract.method.dialog" timestamp="1577988735684">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="458" y="208" key="extract.method.dialog/0.23.1440.822@0.23.1440.822" timestamp="1577988735684" />
+    <state x="480" y="305" key="git4idea.rebase.GitRebaseDialog" timestamp="1577995732086">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state x="480" y="305" key="git4idea.rebase.GitRebaseDialog/0.23.1440.821@0.23.1440.821" timestamp="1577995732086" />
+  </component>
+</project>
