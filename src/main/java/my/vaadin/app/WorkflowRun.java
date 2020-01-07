@@ -1,17 +1,35 @@
 package my.vaadin.app;
 
-import java.time.LocalDateTime;
 import java.util.Date;
 
 public class WorkflowRun {
-    String runName;
-    String runningTaskName;
-    LocalDateTime startTime;
-    WorkflowRunStatus currentRunStatus;
-    int submittedCount;
-    int runningCount;
-    int completedCount;
-    int failedCount;
+
+  String runName;
+  String runningTaskName;
+  Date startTime;
+  WorkflowRunStatus currentRunStatus;
+  int submittedCount;
+  int runningCount;
+  int completedCount;
+  int failedCount;
+
+  public WorkflowRun()
+  {
+
+  }
+  public WorkflowRun(String runName, String runningTaskName, Date startTime,
+      WorkflowRunStatus currentRunStatus, int submittedCount, int runningCount, int completedCount,
+      int failedCount)
+  {
+    this.runName = runName;
+    this.runningTaskName = runningTaskName;
+    this.startTime = startTime;
+    this.currentRunStatus = currentRunStatus;
+    this.submittedCount =  submittedCount;
+    this.runningCount = runningCount;
+    this.completedCount = completedCount;
+    this.failedCount = failedCount;
+  }
 
   public String getRunName() {
     return runName;
@@ -29,11 +47,11 @@ public class WorkflowRun {
     this.runningTaskName = runningTaskName;
   }
 
-  public LocalDateTime getStartTime() {
+  public Date getStartTime() {
     return startTime;
   }
 
-  public void setStartTime(LocalDateTime startTime) {
+  public void setStartTime(Date startTime) {
     this.startTime = startTime;
   }
 
@@ -76,5 +94,6 @@ public class WorkflowRun {
   public void setFailedCount(int failedCount) {
     this.failedCount = failedCount;
   }
-
 }
+
+

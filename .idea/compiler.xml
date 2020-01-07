@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Vaadin Grid" />
+        <module name="Vaadin Grid Current" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Vaadin Grid" target="1.8" />
+      <module name="Vaadin Grid Current" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

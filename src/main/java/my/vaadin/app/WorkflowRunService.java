@@ -1,9 +1,9 @@
 package my.vaadin.app;
 
-import java.time.LocalDateTime;
+import com.vaadin.event.dd.acceptcriteria.Or;
+
 import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Random;
@@ -23,7 +23,6 @@ public class WorkflowRunService {
   private static final Logger LOGGER = Logger.getLogger(WorkflowRunService.class.getName());
 
   private final HashMap<String, WorkflowRun> workflowruns = new HashMap<>();
-  private long nextId = 0;
 
   private WorkflowRunService() {
   }
@@ -60,13 +59,6 @@ public class WorkflowRunService {
       }
     }
     return arrayList;
-  }
-
-  /**
-   * @return the amount of all WorkflowRun in the system
-   */
-  public synchronized long count() {
-    return workflowruns.size();
   }
 
   /**
@@ -109,16 +101,17 @@ public class WorkflowRunService {
           "Danielle Watson", "Leland Harris", "Gunner Karlsen", "Jamar Olsson", "Lara Martin",
           "Ann Andersson", "Remington Andersson", "Rene Carlsson", "Elvis Olsen", "Solomon Olsen",
           "Jaydan Jackson", "Bernard Nilsen" };
-      Random ra = new Random(0);
+      Random ra = new Random(System.nanoTime());
+
       for (String name : names) {
         WorkflowRun r = new WorkflowRun();
         r.setRunName(name);
-        r.setCompletedCount(10);
-        r.setFailedCount(11);
-        r.setRunningCount(3);
-        r.setSubmittedCount(12);
+        r.setCompletedCount(ra.nextInt(10 -0 +1) + 0);
+        r.setFailedCount(ra.nextInt(10 -0 +1) + 0);
+        r.setRunningCount(ra.nextInt(10 -0 +1) + 0);
+        r.setSubmittedCount(ra.nextInt(10 -0 +1) + 0);
         r.setRunningTaskName("TemplateTask");
-        r.setStartTime(LocalDateTime.now());
+        r.setStartTime(new Date());
         r.setCurrentRunStatus(WorkflowRunStatus.values()[ra.nextInt(WorkflowRunStatus.values().length)]);
         save(r);
       }

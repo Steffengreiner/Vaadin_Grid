@@ -1,3 +1,6 @@
 my/vaadin/app/WorkflowRunStatus.class
+my/vaadin/app/MyUI.class
+my/vaadin/app/MyUI$MyUIServlet.class
 my/vaadin/app/WorkflowRunService.class
+my/vaadin/app/MyUI$1.class
 my/vaadin/app/WorkflowRun.class

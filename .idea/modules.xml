@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Vaadin Grid.iml" filepath="$PROJECT_DIR$/.idea/Vaadin Grid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Vaadin Grid Current.iml" filepath="$PROJECT_DIR$/.idea/Vaadin Grid Current.iml" />
     </modules>
   </component>
 </project>
