@@ -1,43 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f70ae1f-5aaa-4e18-9d8f-603119f06df4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/img/Completed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/img/Error.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/img/Queued.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/img/Running.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Vaadin Grid.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my/vaadin/app/MyUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/vaadin/app/MyUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRunService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRunService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRunStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/my/vaadin/app/WorkflowRunStatus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/CustomerService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/CustomerService$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/CustomerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/CustomerStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/MyUI$MyUIServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/MyUI$MyUIServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/MyUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/MyUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRun.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRunService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRunService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRunStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/app-1.0-SNAPSHOT/WEB-INF/classes/my/vaadin/app/WorkflowRunStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/CustomerService$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/CustomerService$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/CustomerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/CustomerStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/MyUI$MyUIServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/MyUI$MyUIServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/MyUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/my/vaadin/app/MyUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/WorkflowRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/WorkflowRunService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/my/vaadin/app/WorkflowRunStatus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-    </list>
+    <list default="true" id="0f70ae1f-5aaa-4e18-9d8f-603119f06df4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -240,12 +204,20 @@
       <option name="project" value="LOCAL" />
       <updated>1577996296754</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Current Vaadin Grit based on &#10;https://vaadin.com/docs/v8/framework/tutorial.html">
+      <created>1578400264825</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578400264825</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Vaadin Grit Based on Tutorial on&#10;https://vaadin.com/docs/v8/framework/tutorial.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Vaadin Grit Based on Tutorial on&#10;https://vaadin.com/docs/v8/framework/tutorial.html" />
+    <MESSAGE value="Current Vaadin Grit based on &#10;https://vaadin.com/docs/v8/framework/tutorial.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Current Vaadin Grit based on &#10;https://vaadin.com/docs/v8/framework/tutorial.html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="99" key="#Project_Structure" timestamp="1578399461843">
@@ -275,12 +247,12 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="458" y="187" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.821@0.23.1440.821" timestamp="1577995828288" />
-    <state x="242" y="31" key="CommitChangelistDialog2" timestamp="1578400199071">
+    <state x="242" y="31" key="CommitChangelistDialog2" timestamp="1578400263974">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="242" y="31" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1577996296586" />
     <state x="242" y="31" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1577996229867" />
-    <state x="242" y="31" key="CommitChangelistDialog2/0.23.1440.826/1440.23.1920.1057@0.23.1440.826" timestamp="1578400199071" />
+    <state x="242" y="31" key="CommitChangelistDialog2/0.23.1440.826/1440.23.1920.1057@0.23.1440.826" timestamp="1578400263974" />
     <state x="42" y="98" key="DiffContextDialog" timestamp="1578400191458">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -343,11 +315,12 @@
     </state>
     <state x="207" y="23" width="1024" height="826" key="SettingsEditor/0.23.1440.826/1440.23.1920.1057@0.23.1440.826" timestamp="1578387498455" />
     <state x="207" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827/1440.23.1920.1057@0.23.1440.827" timestamp="1578390027043" />
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1577996304416">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2" timestamp="1578400324074">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1577996304416" />
     <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1577996249732" />
+    <state x="320" y="174" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.23.1920.1057@0.23.1440.826" timestamp="1578400324074" />
     <state x="521" y="174" key="VcsDiffUtil.ChangesDialog" timestamp="1577996317379">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
@@ -358,6 +331,10 @@
     <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1577996279967" />
     <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1578383881799" />
     <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1578037773453" />
+    <state x="503" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578400294401">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="503" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826/1440.23.1920.1057@0.23.1440.826" timestamp="1578400294401" />
     <state x="458" y="208" key="extract.method.dialog" timestamp="1577988735684">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
@@ -370,6 +347,10 @@
       <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="480" y="305" key="git4idea.rebase.GitRebaseDialog/0.23.1440.821@0.23.1440.821" timestamp="1577995732086" />
+    <state x="444" y="337" key="git4idea.ui.GitResetDialog" timestamp="1578400275778">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="444" y="337" key="git4idea.ui.GitResetDialog/0.23.1440.826/1440.23.1920.1057@0.23.1440.826" timestamp="1578400275778" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1578049125038">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
